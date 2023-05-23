@@ -6,7 +6,7 @@ a{
     text-decoration: none;
 }
 body{
-    min-width: 1320px;
+    min-width: 1400px;
     font-size: 15px;
     line-height: 22px;
     font-family: Arial, Helvetica, sans-serif;
@@ -25,7 +25,7 @@ body{
 #header{
     width: 1320px;
     margin: 0 auto;
-
+    overflow: hidden;
 }
 .header1{
     display: block;
@@ -52,7 +52,6 @@ body{
 }
 .gnb2{
     display: inline-block;
-    margin-left: 470px;
 }
 .gnb2 > li{
     float: left;
@@ -185,6 +184,9 @@ body{
     font-size: 25px;
     font-family: serif;
     font-weight: 900;
+}
+#slick_wrap{
+    overflow: hidden;
 }
 #about_wrap{
     width: 1320px;
