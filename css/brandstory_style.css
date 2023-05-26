@@ -162,7 +162,7 @@ body{
 #about_wrap{
     width: 1320px;
     margin: 0 auto;
-    height: 520px;
+    height: 450px;
     text-align: center;
     font-family: 'Noto Serif KR';
 }
@@ -177,7 +177,7 @@ body{
 }
 .about_p{
     font-size: 16px;
-    line-height: 40px;
+    line-height: 28px;
     font-family: 'Noto Sans KR';
     font-weight: 400;
 }
@@ -230,7 +230,8 @@ body{
     font-family: 'Noto Sans KR';
     font-size: 16px;
     font-weight: 400;
-    margin-bottom: 50px;
+    margin-bottom: 70px;
+    line-height: 28px;
 }
 .logo_wrap{
     height: 200px;
@@ -246,6 +247,7 @@ body{
     font-weight: 400;
     margin-bottom: 70px;
     margin-top: 30px;
+    line-height: 28px;
 }
 .color p{
     font-family: 'Noto Sans KR';
@@ -306,94 +308,88 @@ body{
     margin: 0 auto;
     overflow: hidden;
     line-height: 25px;
+    color: #000;
 }
-#brandstory_wrap h1{
-    font-size: 25px;
-    font-family: 'Noto Serif KR';
-    margin-bottom: 50px;
+.barandstory_name{
     text-align: center;
-    padding-top: 100px;
+    padding-top: 80px;
+    font-family: 'Noto Serif KR';
+    font-size: 30px;
+    margin-bottom: 90px;
 }
 .storybox1{
-    height: 510px;
-    position: relative;
+    height: 425px;
     margin-bottom: 150px;
 }
 .storybox1_text{
-    background-color: rgb(24, 39, 62,0.6);
-    width: 650px;
-    height: 250px;
-    color: #fff;
-    padding: 45px;
-    box-sizing: border-box;
-    position: absolute;
-    top: 260px;
-    left: 176px;
+    width: 556px;
+    float: left;
+    padding-top: 163px;
 }
-.story_h2{
-    font-size: 30px;
+.storybox1_text h1{
     font-family: 'Noto Serif KR';
-    margin-bottom: 15px;
-    font-weight: 500;
+    font-size: 30px;
+    padding-bottom: 15px;
+    font-weight: 600;
 }
-.story_p{
+.storybox1_text p{
     font-family: 'Noto Sans KR';
-    font-size: 12px;
+    font-size: 14px;
 }
 .storybox1_photo{
-    width: 600px;
+    width: 764px;
     float: right;
 }
 .storybox2{
-    height: 530px;
-    color: #fff;
-    position: relative;
+    height: 375px;
     margin-bottom: 150px;
 }
 .storybox2_photo{
-    width: 600px;
+    width: 660px;
     float: left;
 }
 .storybox2_text{
-    background-color: rgb(24, 39, 62,0.6);
-    width: 680px;
-    height: 300px;
-    position: absolute;
-    top: 225px;
-    right: 120px;
-    box-sizing: border-box;
-    padding: 40px;
+    width: 540px;
+    float: right;
+    text-align: right;
+    padding-top: 165px;
+}
+.storybox2_text h1{
+    font-family: 'Noto Serif KR';
+    font-size: 30px;
+    padding-bottom: 15px;
+    font-weight: 600;
+}
+.storybox2_text p{
+    font-size: 14px;
+    font-family: 'Noto Sans KR';
 }
 .storybox3{
-    height: 500px;
-    position: relative;
-}
-.storybox3_photo1{
-    width: 350px;
-    float: left;
-    padding-top: 235px;
-}
-.storybox3_photo2{
-    width: 350px;
-    float: right;
+    height: 330px;
 }
 .storybox3_text{
-    width: 750px;
-    height: 300px;
-    background-color: rgb(24, 39, 62,0.6);
-    color: #fff;
-    box-sizing: border-box;
-    padding: 44px;
-    position: absolute;
-    top: 35px;
-    left: 270px;
+    width: 470px;
+    float: left;
+}
+.storybox3_text p{
+    font-size: 14px;
+    font-family: 'Noto Sans KR';
+}
+.storybox3_text h1{
+    font-family: 'Noto Serif KR';
+    font-size: 30px;
+    padding-bottom: 15px;
+    font-weight: 600;
 }
 #location_box1{
     overflow: hidden;
     width: 1320px;
     padding-top: 200px;
     margin: 0 auto;
-    
+}
+.storybox3_photo{
+    width: 722px;
+    float: right;
 }
 #location_box1 h1{
     text-align: center;
