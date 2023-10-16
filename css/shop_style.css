@@ -149,7 +149,7 @@ body{
     text-align: center;
 }
 .shop_name h1{
-    font-family: 'Noto Serif KR';
+    font-family: 'Serif';
     font-size: 50px;
     font-weight: 600;
     padding-top: 345px;
@@ -250,7 +250,7 @@ select::-ms-expand { display: none; }
     position: relative;
 }
 .best_number{
-    font-family: 'Noto Serif KR';
+    font-family: 'Serif';
     font-size: 42px;
     font-weight: 700;
     position: absolute;
@@ -281,7 +281,7 @@ select::-ms-expand { display: none; }
     background-color: rgb(0, 0, 0,0.5);
     padding-top: 180px;
     color: #fff;
-    font-family: 'Noto Serif KR';
+    font-family: 'Serif';
 }
 .cover_text h3{
     font-size: 20px;
@@ -354,7 +354,7 @@ select::-ms-expand { display: none; }
     background-color: rgb(0, 0, 0,0.5);
     padding-top: 125px;
     color: #fff;
-    font-family: 'Noto Serif KR';
+    font-family: 'Serif';
 }
 .right_gnb1 li:nth-child(1) .small_cover1{
     display: none;
@@ -458,7 +458,7 @@ select::-ms-expand { display: none; }
     background-color: rgb(0, 0, 0,0.5);
     padding-top: 200px;
     color: #fff;
-    font-family: 'Noto Serif KR';
+    font-family: 'Serif';
 }
 .big_cover1{
     background-image: url(../images/shop_all_big1_hover.svg);
@@ -597,7 +597,7 @@ select::-ms-expand { display: none; }
     float: left;
 }
 .insta_ul li:nth-child(2) p{
-    font-family: 'Noto Serif KR';
+    font-family: 'Serif';
     font-size: 20px;
     margin-left: 5px;
 }
@@ -648,7 +648,7 @@ select::-ms-expand { display: none; }
     width: 1320px;
     margin: 0 auto;
     height: 300px;
-    font-family: 'noto serif kr';
+    font-family: 'serif';
 }
 .blanc_logo{
     margin-bottom: 15px;
