@@ -196,7 +196,7 @@ body{
 }
 #container h1{
     font-size: 25px;
-    font-family: 'Noto Serif KR';
+    font-family: 'Serif';
     margin-bottom: 30px;
 }
 .keyword_img li{
@@ -221,7 +221,7 @@ body{
     background-image: url(../images/brand_keyword4.jpg);
 }
 .keyword_img li p{
-    font-family: 'Noto Serif KR';
+    font-family: 'Serif';
     font-size: 23px;
     color: #fff;
     padding-top: 180px;
@@ -268,7 +268,7 @@ body{
     margin: 23px 0 25px;
     padding-left: 40px;
     text-align: left;
-    font-family: 'Noto Serif KR';
+    font-family: 'Serif';
 }
 .color_box li:nth-child(1){
     margin-left: 0;
@@ -313,7 +313,7 @@ body{
 .barandstory_name{
     text-align: center;
     padding-top: 80px;
-    font-family: 'Noto Serif KR';
+    font-family: 'Serif';
     font-size: 30px;
     margin-bottom: 90px;
 }
@@ -355,7 +355,7 @@ body{
     padding-top: 165px;
 }
 .storybox2_text h1{
-    font-family: 'Noto Serif KR';
+    font-family: 'Serif';
     font-size: 30px;
     padding-bottom: 15px;
     font-weight: 600;
@@ -376,7 +376,7 @@ body{
     font-family: 'Noto Sans KR';
 }
 .storybox3_text h1{
-    font-family: 'Noto Serif KR';
+    font-family: 'Serif';
     font-size: 30px;
     padding-bottom: 15px;
     font-weight: 600;
@@ -393,7 +393,7 @@ body{
 }
 #location_box1 h1{
     text-align: center;
-    font-family: 'Noto Serif KR';
+    font-family: 'Serif';
     font-size: 35px;
     font-weight: 500;
     margin-bottom: 50px;
@@ -407,7 +407,7 @@ body{
 }
 .location_left h3{
     font-size: 20px;
-    font-family: 'Noto Serif KR';
+    font-family: 'Serif';
     font-weight: 600;
     margin-bottom: 7px;
 }
@@ -426,7 +426,7 @@ body{
 }
 .location_right h3{
     font-size: 20px;
-    font-family: 'Noto Serif KR';
+    font-family: 'Serif';
     font-weight: 600;
     margin-bottom: 15px;
 }
