@@ -597,7 +597,7 @@ select::-ms-expand { display: none; }
     float: left;
 }
 .insta_ul li:nth-child(2) p{
-    font-family: Serif;
+    font-family: 'Noto Serif KR';
     font-size: 20px;
     margin-left: 5px;
 }
