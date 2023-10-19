@@ -147,7 +147,7 @@ body{
 .main{
     width: 1320px;
     margin: 0 auto;
-    font-family: 'Noto Serif KR';
+    font-family: Serif;
     font-size: 50px;
     font-weight: 700;
     color: #fff;
@@ -173,7 +173,7 @@ body{
     text-align: right;
 }
 .left_text h2{
-    font-family: 'Noto Serif KR';
+    font-family: Serif;
     font-size: 25px;
     font-weight: 700;
     margin-bottom: 25px;
@@ -195,7 +195,7 @@ body{
     text-align: center;
 }
 #magazine_wrap h1{
-    font-family: 'Noto Serif KR';
+    font-family: Serif;
     font-size: 25px;
     font-weight: 700;
     margin-bottom: 55px;
@@ -222,7 +222,7 @@ body{
     position: relative;
 }
 .magazine_text h3{
-    font-family: 'Noto Serif KR';
+    font-family: Serif;
     font-size: 16px;
     font-weight: 600;
 }
@@ -289,7 +289,7 @@ body{
     width: 1320px;
     margin: 0 auto;
     height: 300px;
-    font-family: 'noto serif kr';
+    font-family: 'serif';
 }
 .blanc_logo{
     margin-bottom: 15px;
