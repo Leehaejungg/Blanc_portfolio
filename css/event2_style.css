@@ -146,7 +146,7 @@ body{
 .main{
     width: 1320px;
     margin: 0 auto;
-    font-family: 'Noto Serif KR';
+    font-family: Serif;
     font-size: 50px;
     font-weight: 700;
     color: #fff;
@@ -277,7 +277,7 @@ body{
     width: 1320px;
     margin: 0 auto;
     height: 300px;
-    font-family: 'noto serif kr';
+    font-family: 'serif';
 }
 .blanc_logo{
     margin-bottom: 15px;
