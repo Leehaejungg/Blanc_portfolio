@@ -10,8 +10,8 @@
     </g>
     <rect id="사각형_573" data-name="사각형 573" width="400" height="300" transform="translate(15541 909)" opacity="0.15"/>
     <g id="그룹_671" data-name="그룹 671" transform="translate(14780 115.509)">
-      <text id="Weekend" transform="translate(961 951.867)" fill="#ffda63" font-size="55" font-family="NotoSerifKR-Medium, Noto Serif KR" font-weight="500"><tspan x="-123.723" y="0">Weekend</tspan></text>
-      <text id="GOOD_PRICE_SHOES" data-name="GOOD PRICE SHOES" transform="translate(961 890.491)" fill="#fff" font-size="30" font-family="NotoSerifKR-Light, Noto Serif KR" font-weight="300"><tspan x="-148.71" y="0">GOOD PRICE SHOES</tspan></text>
+      <text id="Weekend" transform="translate(961 951.867)" fill="#ffda63" font-size="55" font-family="NotoSerifKR-Medium, Serif" font-weight="900"><tspan x="-123.723" y="0">Weekend</tspan></text>
+      <text id="GOOD_PRICE_SHOES" data-name="GOOD PRICE SHOES" transform="translate(961 890.491)" fill="#fff" font-size="30" font-family="NotoSerifKR-Light, Serif" font-weight="500"><tspan x="-148.71" y="0">GOOD PRICE SHOES</tspan></text>
       <text id="_08.12_08.19" data-name="08.12 ~ 08.19" transform="translate(961 995.5)" fill="#fff" font-size="12" font-family="NotoSerifKR-ExtraLight, Noto Serif KR" font-weight="200"><tspan x="-35.982" y="0">08.12 ~ 08.19</tspan></text>
       <g id="사각형_273" data-name="사각형 273" transform="translate(901 977.5)" fill="none" stroke="#fff" stroke-width="1">
         <rect width="120" height="25" rx="3" stroke="none"/>
