@@ -349,7 +349,7 @@ body{
     float: left;
 }
 .storybox2_text{
-    width: 540px;
+    width: 600px;
     float: right;
     text-align: right;
     padding-top: 165px;
@@ -368,7 +368,7 @@ body{
     height: 330px;
 }
 .storybox3_text{
-    width: 470px;
+    width: 510px;
     float: left;
 }
 .storybox3_text p{
